@@ -46,7 +46,7 @@ https://poe.com/NOLA-LoveQnA
 
 https://poe.com/PIKAMAX
 
-https://github.com/luckypikas/pikaverse-links/CONTENTS-LINK-LISTS/ecosystem-and-basic-github-links.md
+https://luckypikas.github.io/pikaverse-links/CONTENTS-LINK-LISTS/ecosystem-and-basic-github-links.md
 
 
 https://luckypikas.github.io/daykeepers-handbook/
@@ -66,7 +66,6 @@ https://luckypikas.github.io/pika-yoga/
 https://luckypikas.github.io/vibe-control-communication-skills-ebook/
 
 https://luckypikas.github.io/vibe-control/
-
 
 
 
