@@ -32,6 +32,20 @@ https://luckypikas.github.io/
 
 https://luckypikas.github.io/
 
+https://pcpowerjunkie.substack.com/
+
+https://luckypikas.substack.com/
+
+https://pikamax.substack.com/
+
+https://pikastar.substack.com/
+
+https://loveqna.substack.com/
+
+https://pikayoga.substack.com/
+
+https://dynastyandlegacy.substack.com/
+
 https://vibe-control.blogspot.com/
 
 https://shibariumknights.blogspot.com/
